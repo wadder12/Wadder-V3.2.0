@@ -1,0 +1,22 @@
+
+📝 **Changelog for Version 2.1.0 (2023-03-27):**
+
+🆕 **New Features:**
+- `Wadder Chat` functions added, with plans to remove the current chat soon. (*DM WADDER NOW*) :rocket::speech_balloon:
+- `Active translation detection` for non-English messages, with automatic translation to English. :earth_americas::mag_right:
+- `AI moderation` using OpenAI to detect harmful content and warn users, ensuring a safe and welcoming environment for all. :robot::shield:
+- `Logging setup` for server administrators to track user activities, ensuring transparency and accountability. :pencil::eyes:
+- `Suggestions setup` for users to submit ideas and feedback through a dedicated channel, so we can make Wadder even better. :bulb::speech_balloon:
+- `Active translation detection` now based on the user's primary language, making communication even more seamless. :speaking_head::globe_with_meridians:
+
+🛠️ **Improvements:**
+- Enhanced `AI moderation` with better accuracy and performance, ensuring a higher level of protection. :arrow_up::weight_lifting:
+- Support for the `latest version` of the OpenAI API, delivering the highest quality AI services. :rocket::key:
+- More `detailed and user-friendly logging system`, making it easier for administrators to manage activities. :pencil::ok_hand:
+
+🚧 **Work in Progress:**
+- Developing `Chat turbo engine` for voice-to-text and text translation, taking communication to the next level. :microphone::fast_forward::globe_with_meridians:
+- `Migrating all engine commands` to the new engine, ensuring consistency and reliability. :arrows_counterclockwise::wrench:
+- `Expanding active translation feature` to support more languages, making communication possible across the globe. :speaking_head::earth_americas:
+- Enhancing `AI moderation accuracy` and reducing false positives, ensuring a safe and welcoming environment for all. :robot::dart:
+- Developing a `website for Wadder`, Wadder Chat, Wadder Pro, Wadderly, and Wadderstats, making it easier for users to access and use our services. :globe_with_meridians::computer:
